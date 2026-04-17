@@ -2,3 +2,4 @@ In this folder are sample of my data manipulation.
 I have included samples of an R Shiny page that I created where I clustered players and visualizaed the clusters with ggplot2 and made it interactive with Plotly.
 Webpage: https://edlanalytics.shinyapps.io/BlackhawksDynastyClustering/
 I am also including sample of my code to create pie charts looking at the breakdown of shot types by NHL venue.
+Additionally, I am uploading a sample of various heat maps I created, in these heat maps I compare the shooting locations of players between hot and cold streaks.
