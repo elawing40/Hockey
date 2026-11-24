@@ -1,0 +1,12 @@
+This is the folder for Tracking THoR, all code that is needed for this project can be found in this folder.
+The goal of the Tracking THoR project was to create a rating system to players using tracking data.
+The data will not be shared at the request of SportLogiq. The files need to be run in the following order.
+
+TrackingTHoRStintsWide.R
+TrackingTHoREventToGoalTimes.R
+TrackingTHoRDataframesCreation.R
+TrackingTHoR12SecondModels3Players.R
+TrackingTHoRRAPMModels.R
+TrackingTHoR_DWRAPMModels.R
+TrackingTHoRDWRAPMCheck.R
+TrackingTHoRRAPMForCompare.R
